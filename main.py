@@ -1,3 +1,13 @@
+
+"""
+Author: Mayank Sharma
+
+Description:
+This Python script utilizes Tkinter to create a visually appealing animation featuring
+bouncing marbles on a canvas. The marbles exhibit dynamic movement, collisions, and a 
+colorful display, providing an cool visual experience.
+"""
+
 import tkinter as tk
 import random
 import time
